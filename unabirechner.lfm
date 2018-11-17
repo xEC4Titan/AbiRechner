@@ -1,0 +1,133 @@
+object Form1: TForm1
+  Left = 432
+  Height = 351
+  Top = 193
+  Width = 522
+  Caption = 'Form1'
+  ClientHeight = 351
+  ClientWidth = 522
+  OnCreate = FormCreate
+  LCLVersion = '1.8.4.0'
+  object btLos: TButton
+    Left = 344
+    Height = 25
+    Top = 24
+    Width = 75
+    Caption = 'Rechne!'
+    OnClick = btLosClick
+    TabOrder = 0
+  end
+  object edEins: TEdit
+    Left = 32
+    Height = 23
+    Top = 32
+    Width = 136
+    TabOrder = 1
+    Text = 'edEins'
+  end
+  object edZwei: TEdit
+    Left = 32
+    Height = 23
+    Top = 64
+    Width = 136
+    ParentShowHint = False
+    TabOrder = 2
+    Text = 'Zweites Halbjahr'
+  end
+  object eddrei: TEdit
+    Left = 32
+    Height = 23
+    Top = 96
+    Width = 136
+    TabOrder = 3
+    Text = 'eddrei'
+  end
+  object edVier: TEdit
+    Left = 32
+    Height = 23
+    Top = 128
+    Width = 136
+    TabOrder = 4
+    Text = 'edVier'
+  end
+  object lbAbi: TLabel
+    Left = 336
+    Height = 15
+    Top = 88
+    Width = 85
+    Caption = 'Abidurchschnitt'
+    ParentColor = False
+  end
+  object edsemi: TEdit
+    Left = 32
+    Height = 23
+    Top = 224
+    Width = 168
+    TabOrder = 5
+    Text = 'edsemi'
+  end
+  object edone: TEdit
+    Left = 32
+    Height = 23
+    Top = 256
+    Width = 112
+    TabOrder = 6
+    Text = 'edone'
+  end
+  object edthree: TEdit
+    Left = 152
+    Height = 23
+    Top = 256
+    Width = 112
+    TabOrder = 7
+    Text = 'edthree'
+  end
+  object edtwo: TEdit
+    Left = 32
+    Height = 23
+    Top = 288
+    Width = 112
+    TabOrder = 8
+    Text = 'edtwo'
+  end
+  object edfour: TEdit
+    Left = 152
+    Height = 23
+    Top = 288
+    Width = 112
+    TabOrder = 9
+    Text = 'edfour'
+  end
+  object Label1: TLabel
+    Left = 8
+    Height = 15
+    Top = 8
+    Width = 51
+    Caption = 'Halbjahre'
+    ParentColor = False
+  end
+  object Label2: TLabel
+    Left = 16
+    Height = 15
+    Top = 192
+    Width = 88
+    Caption = 'Abiturleistungen'
+    ParentColor = False
+  end
+  object Gesamtpunktzahl: TLabel
+    Left = 192
+    Height = 15
+    Top = 8
+    Width = 92
+    Caption = 'Gesamtpunktzahl'
+    ParentColor = False
+  end
+  object edges: TEdit
+    Left = 208
+    Height = 23
+    Top = 32
+    Width = 80
+    TabOrder = 10
+    Text = 'edges'
+  end
+end

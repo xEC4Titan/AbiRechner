@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="Abirechner.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="22" Y="10"/>
+        <UsageCount Value="23"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unabirechner.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unAbirechner"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="52"/>
+        <CursorPos X="18" Y="82"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3645"/>
+        <CursorPos Y="3668"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="48" TopLine="19"/>
+      </Position1>
+      <Position2>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="182" Column="23" TopLine="153"/>
+      </Position2>
+      <Position3>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="185" Column="9" TopLine="156"/>
+      </Position3>
+      <Position4>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="186" Column="9" TopLine="157"/>
+      </Position4>
+      <Position5>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="187" Column="9" TopLine="158"/>
+      </Position5>
+      <Position6>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="188" Column="9" TopLine="159"/>
+      </Position6>
+      <Position7>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="189" Column="9" TopLine="160"/>
+      </Position7>
+      <Position8>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="190" Column="9" TopLine="161"/>
+      </Position8>
+      <Position9>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="191" Column="9" TopLine="162"/>
+      </Position9>
+      <Position10>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="192" Column="9" TopLine="163"/>
+      </Position10>
+      <Position11>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="193" Column="9" TopLine="164"/>
+      </Position11>
+      <Position12>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="56" Column="9" TopLine="39"/>
+      </Position12>
+      <Position13>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="201" Column="6" TopLine="36"/>
+      </Position13>
+      <Position14>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="31" Column="46" TopLine="24"/>
+      </Position14>
+      <Position15>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="203" Column="2" TopLine="42"/>
+      </Position15>
+      <Position16>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="201" Column="5" TopLine="171"/>
+      </Position16>
+      <Position17>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="58" Column="10" TopLine="42"/>
+      </Position17>
+      <Position18>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="191" Column="6" TopLine="175"/>
+      </Position18>
+      <Position19>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="193" TopLine="175"/>
+      </Position19>
+      <Position20>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="60" Column="38" TopLine="37"/>
+      </Position20>
+      <Position21>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="48" Column="38" TopLine="38"/>
+      </Position21>
+      <Position22>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="205" Column="34" TopLine="176"/>
+      </Position22>
+      <Position23>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="46" TopLine="38"/>
+      </Position23>
+      <Position24>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="39" Column="26" TopLine="15"/>
+      </Position24>
+      <Position25>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="66" Column="26" TopLine="41"/>
+      </Position25>
+      <Position26>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="62" Column="46" TopLine="46"/>
+      </Position26>
+      <Position27>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="73" TopLine="48"/>
+      </Position27>
+      <Position28>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="62" TopLine="37"/>
+      </Position28>
+      <Position29>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="74" Column="45" TopLine="60"/>
+      </Position29>
+      <Position30>
+        <Filename Value="unabirechner.pas"/>
+        <Caret Line="81" Column="14" TopLine="61"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="unabirechner.pas"/>
+        <Line Value="81"/>
+      </Item1>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
